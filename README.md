@@ -1,2 +1,4 @@
-# Tecnologias-para-Back-End
-Olá, Mundo!! No Spring
+# Tecnologias para BackEnd I
+
+#### Repositório dedicado para compartilhar as atividades propostas em aula da disciplina.
+
